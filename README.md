@@ -1,4 +1,4 @@
-# Ikollec's Java Learning Recording 🚀
+# Ikollec's Java Learning Recording 🚀(book)
 
 ## 📌 About This Repository
 
